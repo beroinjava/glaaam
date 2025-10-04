@@ -1,0 +1,40 @@
+{
+  "Mod-Version": "1.0",
+  "Users": [
+    {
+      "nickname": "denischifer",
+      "status": "developer",
+      "date": "04.10.2025",
+      "hwid": "jgu8oakdngue-ajduried-awf4dsA"
+    },
+    {
+      "nickname": "machinator",
+      "status": "user",
+      "date": "04.10.2025",
+      "hwid": "dduwuoskf122-djfru-anfvdhid"
+    },
+    {
+      "nickname": "neiseha",
+      "status": "vipuser",
+      "date": "04.10.2025",
+      "hwid": "dfgterbvbg-sCfgrc-rE12sdfgf"
+    }
+  ],
+  "Keys": [
+    {
+      "key": "JfcVrsSZefczA",
+      "type": "user",
+      "expires": "04.10.2025 22:10"
+    },
+    {
+      "key": "GyeudiklAcxjciso",
+      "type": "vip",
+      "expires": "04.10.2025 22:15"
+    },
+    {
+      "key": "KkkaoPSDOlfmKOFdk",
+      "type": "vip",
+      "expires": "04.10.2025 22:20"
+    }
+  ]
+}
